@@ -51,4 +51,4 @@ void insertBeg(int x){
     temp->link=head;
     head= temp;
 }
-//even make function for insert at any position
+
