@@ -51,4 +51,3 @@ void insertBeg(int x){
     temp->link=head;
     head= temp;
 }
-
