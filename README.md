@@ -1,2 +1,2 @@
 # Data-Structures
-In this repository I will be including the basic programs that will include the data structures like linked list, stack, queue, trees, and even graphs.
+This repository contains fundamental programs that implement core data structures such as linked lists, stacks, queues, trees, and graphs.
